@@ -1,29 +1,37 @@
-Installation
+# Budget App
 
-Clone the repository:
+A clean and modern **Laravel + Vue 3 (Inertia.js)** budget manager with a sleek interface.
 
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+
+```bash
 git clone <your-repo-url>
 cd <your-repo-folder>
 
-Install dependencies:
+2. Install dependencies:
 
 composer install
 npm install
 
-Copy .env file and generate app key:
+3.Copy .env file and generate app key:
 
 cp .env.example .env
 php artisan key:generate
 
-Run database migrations:
+4.Run database migrations:
 
 php artisan migrate
 
-Start development server:
+5.Start development server:
 
 npm run dev
 php artisan serve
-🖥️ Frontend Structure
+
+Frontend Structure
 
 Login.vue & Register.vue
 
@@ -92,3 +100,4 @@ Filtering for Income / Expenses
 Charts and visual budget summaries
 
 Customizable themes (light / dark mode)
+
