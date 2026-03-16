@@ -84,7 +84,7 @@ const submit = () => {
 
 <style scoped>
 /* леко допълнителен пастелен фон */
-.bg-pink-50 {
+.bg-blue-50 {
     background-color: #fff0f6;
 }
 </style>
