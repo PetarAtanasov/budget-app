@@ -9,8 +9,8 @@ A clean and modern **Laravel + Vue 3 (Inertia.js)** budget manager with a sleek 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/PetarAtanasov/budget-app.git
+cd budget-app
 
 2. Install dependencies:
 
